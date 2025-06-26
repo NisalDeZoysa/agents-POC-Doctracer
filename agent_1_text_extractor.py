@@ -71,4 +71,4 @@ def _split_change_blocks(doc_text: str):
     return results
 
 def agent_1_extract(pdf_path):
-    return extract_text_from_pdfplumber(pdf_path)
+    return extract_text_from_pdfplumber(gota-amendment.pdf)
